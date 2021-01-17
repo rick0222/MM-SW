@@ -1,0 +1,31 @@
+.MM-SW .day {
+  color: white;  
+}
+
+.MM-SW .date {
+  color: white;  
+}
+
+.MM-SW .weather-icon {
+  color: white;  
+}
+
+.MM-SW .min-temp {
+  color: white;  
+}
+
+.MM-SW .rain {
+  color: white;  
+}
+
+.MM-SW .direction {
+  color: white;  
+}
+
+.MM-SW tr.colored .min-temp {
+  color: #bcddff;
+}
+
+.MM-SW tr.colored .max-temp {
+  color: #ff8e99;
+}
